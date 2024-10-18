@@ -9,9 +9,9 @@ const getTypeDetails = (type) => {
         case "fire": 
             return { borderColor: "#FF5733", emoji: '🔥' };
         case "grass":
-            return { borderColor:"#66CC66", emoji:"🌿" };
+            return { borderColor: "#66CC66", emoji: "🌿" };
         default:
-            return { borderColor: "#A0A0A0", emoji:"❓" }
+            return { borderColor: "#A0A0A0", emoji:"❓" };
     }
 }
 

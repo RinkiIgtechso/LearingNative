@@ -1,4 +1,4 @@
-import { Image, View, ScrollView, Text, ActivityIndicator, Alert, Button, StyleSheet } from 'react-native';
+import { Image, View, ScrollView, Text, Alert, Button, StyleSheet } from 'react-native';
 import Greet from './components/Greet';
 // import { Button } from 'react-native-web';
 const userImge = require("./assets/female_image4.png");
